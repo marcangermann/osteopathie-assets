@@ -1,0 +1,11 @@
+# macOS / Linux
+.DS_Store
+*.tmp
+
+# Editor
+.vscode/
+*.swp
+
+# Lokale Arbeitsdateien (nicht für Veröffentlichung)
+drafts/
+*.draft.*
