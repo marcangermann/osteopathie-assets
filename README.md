@@ -35,7 +35,7 @@ Details zum vollständigen Publish-Workflow (Container erstellen → Status poll
 
 | Datum | Thema | Pfad | Post-ID |
 |-------|-------|------|---------|
-| 2026-08-19 | Casa Asado Weiterbildung (Zweibrücken) | `instagram/2026-08/2026-08-19_casa-asado.png` | pending |
+| 2026-08-19 | Casa Asado Weiterbildung (Zweibrücken) | `instagram/2026-08/2026-08-19_casa-asado.png` | `18029988011845005` |
 | 2026-08-06 | Neuraltherapie (Maria Angermann) | `instagram/2026-08/2026-08-06_neuraltherapie.png` | `17959103156981360` |
 | 2026-08-03 | Praxisurlaub (Rückkehr) | `instagram/2026-08/2026-08-03_praxisurlaub.png` | `18399857725092553` |
 
