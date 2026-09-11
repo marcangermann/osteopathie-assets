@@ -35,6 +35,7 @@ Details zum vollständigen Publish-Workflow (Container erstellen → Status poll
 
 | Datum | Thema | Pfad | Post-ID |
 |-------|-------|------|---------|
+| 2026-09-11 | Vortrag Laufsportladen (Maria, Frauenlauf-Auftakt) | `instagram/2026-09/2026-09-11_vortrag-laufsportladen.png` | pending |
 | 2026-08-28 | Oststraße Sperrung / Anfahrt | `instagram/2026-08/2026-08-28_oststrasse.png` | `17954548467212125` |
 | 2026-08-19 | Casa Asado Weiterbildung (Zweibrücken) | `instagram/2026-08/2026-08-19_casa-asado.png` | `18029988011845005` |
 | 2026-08-06 | Neuraltherapie (Maria Angermann) | `instagram/2026-08/2026-08-06_neuraltherapie.png` | `17959103156981360` |
