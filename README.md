@@ -35,6 +35,7 @@ Details zum vollständigen Publish-Workflow (Container erstellen → Status poll
 
 | Datum | Thema | Pfad | Post-ID |
 |-------|-------|------|---------|
+| 2026-10-09 | Praxisurlaub 12.–16.10.2026 | `instagram/2026-10/2026-10-09_praxisurlaub.png` | pending |
 | 2026-09-11 | Vortrag Laufsportladen (Maria, Frauenlauf-Auftakt) | `instagram/2026-09/2026-09-11_vortrag-laufsportladen.png` | `17904778821329435` |
 | 2026-08-28 | Oststraße Sperrung / Anfahrt | `instagram/2026-08/2026-08-28_oststrasse.png` | `17954548467212125` |
 | 2026-08-19 | Casa Asado Weiterbildung (Zweibrücken) | `instagram/2026-08/2026-08-19_casa-asado.png` | `18029988011845005` |
