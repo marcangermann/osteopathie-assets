@@ -35,7 +35,7 @@ Details zum vollständigen Publish-Workflow (Container erstellen → Status poll
 
 | Datum | Thema | Pfad | Post-ID |
 |-------|-------|------|---------|
-| 2026-11-04 | Expertenseminar Hormone, akana Hormonakademie (Maria Angermann) | `instagram/2026-11/2026-11-04_akana-hormone.png` | pending |
+| 2026-11-04 | Expertenseminar Hormone, akana Hormonakademie (Maria Angermann) | `instagram/2026-11/2026-11-04_akana-hormone.png` | `17976987051175331` |
 | 2026-10-09 | Praxisurlaub 12.–16.10.2026 | `instagram/2026-10/2026-10-09_praxisurlaub.png` | `18209200564365704` |
 | 2026-09-11 | Vortrag Laufsportladen (Maria, Frauenlauf-Auftakt) | `instagram/2026-09/2026-09-11_vortrag-laufsportladen.png` | `17904778821329435` |
 | 2026-08-28 | Oststraße Sperrung / Anfahrt | `instagram/2026-08/2026-08-28_oststrasse.png` | `17954548467212125` |
